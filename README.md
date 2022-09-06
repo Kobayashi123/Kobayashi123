@@ -60,10 +60,12 @@
     </a>
 </p>
 
-<div align="left">
+<p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kobayashi123&show_icons=true&locale=en&layout=compact" alt="Kobayashi123"/>
+</p>
+<p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kobayashi123&show_icons=true&locale=en&theme=github_dark" alt="Kobayashi123" />
-</div>
+</p>
 
 <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kobayashi123" alt="Kobayashi123" />
