@@ -60,17 +60,17 @@
     </a>
 </p>
 
-<p>
+<div align="left">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kobayashi123&show_icons=true&locale=en&layout=compact" alt="Kobayashi123"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kobayashi123&show_icons=true&locale=en&thame=github_dark" alt="Kobayashi123" />
-</p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kobayashi123&show_icons=true&locale=en&theme=github_dark" alt="Kobayashi123" />
+</div>
 
 <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kobayashi123" alt="Kobayashi123" />
 </p>
 
-<p align="left"> 
+<p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=kobayashi123" alt="kobayashi123"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=Kobayashi123" alt="Kobayashi123"/>
     </a>
 </p>
