@@ -1,4 +1,4 @@
-<img align="center" width="500" src="./image/hello_world.png" alt="hello_world" />
+<img align="center" src="./image/hello_world.png" alt="hello_world" />
 
 <h1 align="center"> 👋 Hi, I'm Kobayashi123</h1>
 <h3 align="center">A passionate security engineer apprentice from Japan.</h3>
@@ -63,8 +63,8 @@
 </p>
 
 <p>
-    <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kobayashi123&show_icons=true&locale=en&layout=compact" alt="Kobayashi123"/>
-    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=Kobayashi123&show_icons=true&locale=en&thame=github_dark" alt="Kobayashi123" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kobayashi123&show_icons=true&locale=en&layout=compact" alt="Kobayashi123"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kobayashi123&show_icons=true&locale=en&thame=github_dark" alt="Kobayashi123" />
 </p>
 
 <p>
