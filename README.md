@@ -3,18 +3,6 @@
 <h1 align="center"> 👋 Hi, I'm Kobayashi123</h1>
 <h3 align="center">A passionate security engineer apprentice from Japan.</h3>
 
-<p align="left">
-    <a href="https://github.com/Kobayashi123/Kobayashi123">
-        <img src="https://komarev.com/ghpvc/?username=Kobayashi123" alt="Kobayashi123" />
-    </a>
-    <a href="https://twitter.com/Moz_sec_">
-        <img height="20" src="https://img.shields.io/twitter/follow/Moz_sec_?label=Twitter&logo=twitter&style=flat" />
-    </a>
-    <a href="https://github.com/Kobayashi123">
-        <img height="20" src="https://img.shields.io/github/followers/Kobayashi123?label=follow&logo=github&style=flat" />
-    </a>
-</p>
-
 - 🌱 I’m currently learning **javascript, django**
 
 - 💬 Ask me about **c, java, python**
