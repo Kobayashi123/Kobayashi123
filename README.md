@@ -16,6 +16,11 @@
     </a>
 </p>
 
+<h3 align="left">Skill:</h3>
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/652c9c4ff43a58c923d43405?variant=dark)](https://roadmap.sh)
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
