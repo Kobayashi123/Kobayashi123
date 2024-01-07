@@ -1,3 +1,4 @@
+<!-- badge -->
 <p align="left">
   <a href="https://github.com/Kobayashi123">
     <img height="20" src="https://komarev.com/ghpvc/?username=Kobayashi123" />
@@ -15,6 +16,7 @@
     <img height="20" src="https://badgen.org/img/zenn/moz_sec/articles?style=plastic" />
   </a>
 </p>
+<!-- badge -->
 
 <img align="center" src="./image/hello_world.png" alt="hello_world" />
 
@@ -72,17 +74,14 @@
     </a>
 </p>
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kobayashi123&show_icons=true&locale=en&layout=compact" alt="Kobayashi123"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kobayashi123&show_icons=true&locale=en&thame=github_dark" alt="Kobayashi123" />
-</p>
+<!-- status -->
+![contributions](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kobayashi123&theme=gruvbox)
+![language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kobayashi123&theme=gruvbox)
+![commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kobayashi123&theme=gruvbox)
+![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kobayashi123&theme=gruvbox)
+![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kobayashi123&theme=gruvbox&utcOffset=9)
+<!-- status -->
 
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kobayashi123" alt="Kobayashi123" />
-</p>
-
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=kobayashi123" alt="kobayashi123" />
-    </a>
-</p>
+<!-- trophy -->
+![trophy](https://github-profile-trophy.vercel.app/?username=kobayashi123&theme=gruvbox)
+<!-- trophy -->
