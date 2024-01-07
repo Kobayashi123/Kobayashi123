@@ -1,3 +1,21 @@
+<p align="left">
+  <a href="https://github.com/Kobayashi123">
+    <img height="20" src="https://komarev.com/ghpvc/?username=Kobayashi123" />
+  </a>
+  <a href="https://github.com/Kobayashi123">
+    <img height="20" src="https://img.shields.io/github/followers/Kobayashi123?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="https://qiita.com/Moz_security">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Moz_security/posts.svg" />
+  </a>
+  <a href="https://qiita.com/Moz_security">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Moz_security/contributions.svg" />
+  </a>
+  <a href="https://zenn.dev/moz_sec">
+    <img height="20" src="https://badgen.org/img/zenn/moz_sec/articles?style=plastic" />
+  </a>
+</p>
+
 <img align="center" src="./image/hello_world.png" alt="hello_world" />
 
 <h1 align="center"> 👋 Hi, I'm Kobayashi123</h1>
@@ -7,7 +25,7 @@
 
 - 💬 Ask me about **c, java, python**
 
-- 📫 How to reach me **shun123k@gmail.com**
+- 📫 How to reach me **<shun123k@gmail.com>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,7 +37,6 @@
 <h3 align="left">Skill:</h3>
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/652c9c4ff43a58c923d43405?variant=dark)](https://roadmap.sh)
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
