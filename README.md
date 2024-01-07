@@ -57,6 +57,8 @@
 
 ## Stats
 
+![github-contribution-grid-snake](https://raw.githubusercontent.com/Kobayashi123/Kobayashi123/output/github-contribution-grid-snake.svg)
+
 <p align="left">
   <a href="https://github.com/Kobayashi123">
     <img height="20" src="https://komarev.com/ghpvc/?username=Kobayashi123" />
