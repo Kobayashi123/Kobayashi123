@@ -1,23 +1,3 @@
-<!-- badge -->
-<p align="left">
-  <a href="https://github.com/Kobayashi123">
-    <img height="20" src="https://komarev.com/ghpvc/?username=Kobayashi123" />
-  </a>
-  <a href="https://github.com/Kobayashi123">
-    <img height="20" src="https://img.shields.io/github/followers/Kobayashi123?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="https://qiita.com/Moz_security">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/Moz_security/posts.svg" />
-  </a>
-  <a href="https://qiita.com/Moz_security">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/Moz_security/contributions.svg" />
-  </a>
-  <a href="https://zenn.dev/moz_sec">
-    <img height="20" src="https://badgen.org/img/zenn/moz_sec/articles?style=plastic" />
-  </a>
-</p>
-<!-- badge -->
-
 <img align="center" src="./image/hello_world.png" alt="hello_world" />
 
 <h1 align="center"> 👋 Hi, I'm Kobayashi123</h1>
@@ -36,11 +16,12 @@
     </a>
 </p>
 
-<h3 align="left">Skill:</h3>
+## skills
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/652c9c4ff43a58c923d43405?variant=dark)](https://roadmap.sh)
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools
+
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -74,14 +55,32 @@
     </a>
 </p>
 
-<!-- status -->
+## Stats
+
+<p align="left">
+  <a href="https://github.com/Kobayashi123">
+    <img height="20" src="https://komarev.com/ghpvc/?username=Kobayashi123" />
+  </a>
+  <a href="https://github.com/Kobayashi123">
+    <img height="20" src="https://img.shields.io/github/followers/Kobayashi123?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="https://qiita.com/Moz_security">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Moz_security/posts.svg" />
+  </a>
+  <a href="https://qiita.com/Moz_security">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Moz_security/contributions.svg" />
+  </a>
+  <a href="https://zenn.dev/moz_sec">
+    <img height="20" src="https://badgen.org/img/zenn/moz_sec/articles?style=plastic" />
+  </a>
+</p>
+
 ![contributions](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kobayashi123&theme=gruvbox)
 ![language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kobayashi123&theme=gruvbox)
 ![commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kobayashi123&theme=gruvbox)
 ![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kobayashi123&theme=gruvbox)
 ![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kobayashi123&theme=gruvbox&utcOffset=9)
-<!-- status -->
 
-<!-- trophy -->
+## Trophies
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=kobayashi123&theme=gruvbox)
-<!-- trophy -->
